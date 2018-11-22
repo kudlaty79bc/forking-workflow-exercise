@@ -1,3 +1,3 @@
 def tweet():
-    print('Tweet tweety tweet')
+    return "Tweet tweety tweet"
 
